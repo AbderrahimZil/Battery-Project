@@ -2,4 +2,4 @@
 
 ![](./assets/images/Imputed_Discharge_Cycles.png)
 
-![](./assets/images/mytable.png)
+![](./assets/images/KM.png)
