@@ -5,8 +5,8 @@ Predicting the time to shut down of a battery is critical for ensuring the prope
 
 This project is motivated by the wrong indication about the battery autonomy displayed on my laptop, which has led me to sample data about the battery state.
 
-![](./assets/images/Problem Framing.png)
+![](./assets/images/Problem_Framing.png)
 
-![](./assets/images/Sampling Period.png)
+![](./assets/images/Sampling_Period.png)
 
 ![](./assets/images/Charge_Discharge.png)
